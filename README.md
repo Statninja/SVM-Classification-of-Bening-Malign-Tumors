@@ -1,7 +1,7 @@
 # **SVM Tumor Classification**
 
 ## **Project Overview**
-This project leverages **Support Vector Machines (SVM)** to classify breast tumors into benign and malignant categories. Using the **Wisconsin Breast Cancer Dataset**, we analyze tumor features to train a robust model for accurate medical diagnosis.
+This project leverages **Support Vector Machines (SVM)** to classify breast tumors into benign and malignant categories. Using the **Wisconsin Breast Cancer Dataset**,  tumor features are analyzed to train a robust model for accurate medical diagnosis.
 
 ---
 
@@ -34,7 +34,7 @@ Shows feature correlations in the dataset, highlighting important relationships.
    - Handled missing values and standardized features.
 
 2. **Model Selection**:
-   - Employed **SVM** with a radial basis function (RBF) kernel for classification.
+   - Employed **SVM** with a linear and radial basis function (RBF) kernel for classification.
 
 3. **Evaluation**:
    - Used **cross-validation** and performance metrics such as **accuracy**, **precision**, and **recall**.
