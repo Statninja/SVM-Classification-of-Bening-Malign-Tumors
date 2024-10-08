@@ -7,8 +7,8 @@ This project leverages **Support Vector Machines (SVM)** to classify breast tumo
 
 ## **Objectives**
 - Classify tumors as **benign** or **malignant**.
-- Visualize data using key plots like **pairplot**, **3D visualizations**, and the **confusion matrix**.
-- Assess the performance of **SVM** for accurate classification in healthcare.
+- Visualize data using key plots like **pairplot**, **3D visualizations**, and the **Correlation Heatmap**.
+- Assess the performance of **SVM** for accurate classification for cancerous tumors.
 
 ---
 
