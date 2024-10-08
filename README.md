@@ -40,7 +40,19 @@ Shows feature correlations in the dataset, highlighting important relationships.
    - Used **cross-validation** and performance metrics such as **accuracy**, **precision**, and **recall**.
 
 ---
+### Classification Report - Conclusions
+![Classification Report &Confusion matrix](https://raw.githubusercontent.com/Statninja/SVM-Classification-of-Bening-Malign-Tumors/refs/heads/main/Classification%20Report.png)
 
+The SVM classification model achieved **96% accuracy** in predicting whether tumors are benign or malignant. The precision and recall metrics indicate excellent performance, especially in identifying malignant tumors with **97% recall**. However, there were **5 misclassifications** in benign predictions. Kernel functions (**'linear', 'RBF'**) and parameter tuning could further optimize the model.
+
+### Recommendations:
+- Fine-tune hyperparameters and test ensemble methods to reduce misclassifications.
+
+### Next Steps:
+- Assess the **generalizability** (model's ability to perform well on unseen data) on larger, more diverse datasets to improve model robustness.
+
+
+---
 ## **How to Run the Project**
 1. Clone the repository.
    ```bash
