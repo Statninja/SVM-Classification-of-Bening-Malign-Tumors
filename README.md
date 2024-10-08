@@ -16,7 +16,7 @@ This project leverages **Support Vector Machines (SVM)** to classify breast tumo
 
 ### 1. **Pairplot**: 
 Displays relationships between multiple tumor features.
-![Pairplot]([path/to/pairplot.png](https://github.com/Statninja/SVM-Classification-of-Bening-Malign-Tumors/blob/main/output_11_0.png))
+![Pairplot]([https://github.com/Statninja/SVM-Classification-of-Bening-Malign-Tumors/blob/main/output_11_0.png])
 
 ### 2. **3D Visualization**:
 Explores the decision boundary of SVM in three dimensions.
