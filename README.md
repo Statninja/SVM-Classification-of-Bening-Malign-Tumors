@@ -43,7 +43,7 @@ Shows feature correlations in the dataset, highlighting important relationships.
 ### Classification Report - Conclusions
 ![Classification Report &Confusion matrix](https://raw.githubusercontent.com/Statninja/SVM-Classification-of-Bening-Malign-Tumors/refs/heads/main/Classification%20Report.png)
 
-The SVM classification model achieved **96% accuracy** in predicting whether tumors are benign or malignant. The precision and recall metrics indicate excellent performance, especially in identifying malignant tumors with **97% recall**. However, there were **5 misclassifications** in benign predictions. Kernel functions (**'linear', 'RBF'**) and parameter tuning could further optimize the model.
+The SVM classification model achieved **96% accuracy** in predicting whether tumors are benign or malignant. The precision and recall metrics indicate excellent performance, especially in identifying malignant tumors with **97% recall**. However, there were **5 misclassifications** in benign predictions. Parameter tuning could further optimize the model.
 
 ### Recommendations:
 - Fine-tune hyperparameters and test ensemble methods to reduce misclassifications.
