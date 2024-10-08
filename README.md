@@ -20,11 +20,11 @@ Displays relationships between multiple tumor features.
 
 ### 2. **3D Visualization**:
 Explores the decision boundary of SVM in three dimensions.
-![3D Plot]([path/to/3d_plot.png](https://github.com/Statninja/SVM-Classification-of-Bening-Malign-Tumors/blob/main/SVM%203D.png))
+![3D Plot](https://raw.githubusercontent.com/Statninja/SVM-Classification-of-Bening-Malign-Tumors/refs/heads/main/SVM%203D.png)
 
 ### 3. **Correlation Heatmap**:
 Shows feature correlations in the dataset, highlighting important relationships.
-![Confusion Matrix]([path/to/confusion_matrix](https://github.com/Statninja/SVM-Classification-of-Bening-Malign-Tumors/blob/main/output_13_0.png)
+![Confusion Matrix](https://raw.githubusercontent.com/Statninja/SVM-Classification-of-Bening-Malign-Tumors/refs/heads/main/output_13_0.png)
 
 ---
 
